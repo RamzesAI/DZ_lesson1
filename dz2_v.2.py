@@ -1,0 +1,6 @@
+print('Result of this program: n + nn + nnn')
+n = input('Enter digit, n: ')
+a = int(n)
+b = int(n + n)
+c = int(n + n + n)
+print('Summ n + nn + nnn: ', a + b + c)
